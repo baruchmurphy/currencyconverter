@@ -1,4 +1,4 @@
-This Proect uses react typescript and the currency converter API (https://openexchangerates.org) to allow for converting USD to a wide range of international currencies it could easily be adapted to convert any currency into any currency, however, it requires a paid subscription to do so. This project also uses cors which may require requesting access in order for the api to function
+This Proect uses react typescript and the currency converter API (https://openexchangerates.org, requires api and key to run) to allow for converting USD to a wide range of international currencies it could easily be adapted to convert any currency into any currency, however, it requires a paid subscription to do so. This project also uses cors which may require requesting access in order for the api to function
 
 
 ### `npm start`
